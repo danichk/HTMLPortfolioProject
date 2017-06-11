@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: dimgray;
+  margin: 0;
+}
+
+.header {
+  background-color: dimgray;
+  text-align: center;
+  color: white;
+  padding: 2rem 8rem;
+}
+
+.tagline {
+  background-color: ghostwhite;
+  padding: 2rem 8rem;
+}
+
+.skills {
+  background-color: tomato;
+  color: white;
+  padding: 2rem 8rem;
+}
+
+.contact {
+  background-color: dimgray;
+  color: white;
+  padding: 1rem 8rem;
+}
